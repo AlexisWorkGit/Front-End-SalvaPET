@@ -78,12 +78,8 @@ function AdoptionPuppies() {
                 <img src="img/icon/pawprint.png" alt="" />
               </div>
               <h5 className="sub-title">Porque usar SalvaPET</h5>
-              <h2 className="title">Puppies Waiting for Adoption</h2>
-              <p>
-                The best overall dog DNA test is Embark Breed &amp; Health Kit
-                (view at Chewy), which provides you with a breed brwn and
-                information most dogs
-              </p>
+              <h2 className="title">Es todo lo que tu cliníca necesita</h2>
+              <p>Descubre todos los servicios que ofrece el sistema SalvaPET</p>
             </div>
           </div>
         </div>
@@ -99,17 +95,12 @@ function AdoptionPuppies() {
                 <span className="status">Free</span>
               </div>
               <div className="adopt-content">
-                <div className="adopt-date">
-                  <i className="far fa-calendar-alt" /> Birth : 2021
-                </div>
                 <h3 className="title">
-                  <Link to="/breeder-details">Golden Retriever</Link>
+                  <Link to="/breeder-details">Facturación</Link>
                 </h3>
-                <p>
-                  The Golden Retriever is a medium-large gun dog that was bred.
-                </p>
+                <p>Generar facturas con tu firma </p>
                 <Link to="/breeder-details" className="read-more">
-                  Read More <img src="img/icon/pawprint.png" alt="" />
+                  Empieza Ya <img src="img/icon/pawprint.png" alt="" />
                 </Link>
               </div>
             </div>
@@ -123,15 +114,16 @@ function AdoptionPuppies() {
                 <span className="status">Free</span>
               </div>
               <div className="adopt-content">
-                <div className="adopt-date">
-                  <i className="far fa-calendar-alt" /> Birth : 2021
-                </div>
                 <h3 className="title">
-                  <Link to="/breeder-details">German Sharped</Link>
+                  <Link to="/breeder-details">Reportes</Link>
                 </h3>
-                <p>The German Shepherd is a breed of medium to large-sized.</p>
+                <p>
+                  Reporta a tus clientes sobre las desparasitaciones,
+                  vacunaciones, vitaminaciones, etc a tus clientes
+                </p>
                 <Link to="/breeder-details" className="read-more">
-                  Read More <img src="img/icon/pawprint.png" alt="" />
+                  Empieza Ya
+                  <img src="img/icon/pawprint.png" alt="" />
                 </Link>
               </div>
             </div>
@@ -145,17 +137,12 @@ function AdoptionPuppies() {
                 <span className="status">Free</span>
               </div>
               <div className="adopt-content">
-                <div className="adopt-date">
-                  <i className="far fa-calendar-alt" /> Birth : 2021
-                </div>
                 <h3 className="title">
-                  <Link to="/breeder-details">Siberian Husky</Link>
+                  <Link to="/breeder-details">Informes Contables</Link>
                 </h3>
-                <p>
-                  The Siberian Husky is a medium-sized working sled dog breed.
-                </p>
+                <p>Obtén informes sobre los ingresos y gastos de tu cliníca.</p>
                 <Link to="/breeder-details" className="read-more">
-                  Read More <img src="img/icon/pawprint.png" alt="" />
+                  Empieza Ya <img src="img/icon/pawprint.png" alt="" />
                 </Link>
               </div>
             </div>
@@ -169,18 +156,12 @@ function AdoptionPuppies() {
                 <span className="status">Free</span>
               </div>
               <div className="adopt-content">
-                <div className="adopt-date">
-                  <i className="far fa-calendar-alt" /> Birth : 2021
-                </div>
                 <h3 className="title">
-                  <Link to="/breeder-details">French Bulldog</Link>
+                  <Link to="/breeder-details">Administración</Link>
                 </h3>
-                <p>
-                  French Bulldog is a breed of domestic dog, bred to be
-                  companion.
-                </p>
+                <p>Maneja precios, medicamentos, contratos, etc</p>
                 <Link to="/breeder-details" className="read-more">
-                  Read More <img src="img/icon/pawprint.png" alt="" />
+                  Empieza Ya <img src="img/icon/pawprint.png" alt="" />
                 </Link>
               </div>
             </div>
@@ -194,18 +175,17 @@ function AdoptionPuppies() {
                 <span className="status">Free</span>
               </div>
               <div className="adopt-content">
-                <div className="adopt-date">
-                  <i className="far fa-calendar-alt" /> Birth : 2021
-                </div>
                 <h3 className="title">
-                  <Link to="/breeder-details">Siberian Husky</Link>
+                  <Link to="/breeder-details">
+                    Asistencia sanitaria y Monitoreo Domiciliario
+                  </Link>
                 </h3>
                 <p>
-                  French Bulldog is a breed of domestic dog, bred to be
-                  companion.
+                  Auxilia a las mascotas en caso de emergencia, y apoya en las
+                  etapas de recuperación de los ya salvados
                 </p>
                 <Link to="/breeder-details" className="read-more">
-                  Read More <img src="img/icon/pawprint.png" alt="" />
+                  Empieza Ya <img src="img/icon/pawprint.png" alt="" />
                 </Link>
               </div>
             </div>

@@ -137,23 +137,8 @@ function Header() {
                         </li>*/}
                       <li className="menu-item-has-children">
                         <Link to="/breeder" onClick={(e) => handleActive(e)}>
-                          Servicios Veterinarios
+                          Sistema SalvaPET
                         </Link>
-                        <ul className="submenu">
-                          <li>
-                            <Link to="/breeder" onClick={(e) => subActive(e)}>
-                              Asistencia Sanitaria y Monitoreo Domiciliario
-                            </Link>
-                          </li>
-                          <li>
-                            <Link
-                              to="/breeder-details"
-                              onClick={(e) => subActive(e)}
-                            >
-                              Sistema Salva PET
-                            </Link>
-                          </li>
-                        </ul>
                       </li>
                       <li className="menu-item-has-children">
                         <Link to="/blogs" onClick={(e) => handleActive(e)}>
@@ -162,7 +147,7 @@ function Header() {
                         <ul className="submenu">
                           <li>
                             <Link to="/blogs" onClick={(e) => subActive(e)}>
-                              ¿Qué es Salva PET?
+                              ¿El sistema es Gratis?
                             </Link>
                           </li>
                           <li>
@@ -293,4 +278,3 @@ function Header() {
 }
 
 export default Header;
-
