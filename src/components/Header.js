@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Link } from "react-router-dom";
+import { Link, Router, Route} from "react-router-dom";
 import $ from "jquery";
 
 function Header() {
@@ -178,10 +178,15 @@ function Header() {
                       </li>
 
                       <li className="header-btn">
-                        <Link to="/adoption" className="btn">
-                          Iniciar Sesión{" "}
+                      <a
+   className="btn"
+   target="_blank"
+   rel="noreferrer"
+   href='http://alexisv-001-site1.htempurl.com/admin/auth/login'>
+        Iniciar Sesión{" "}
                           <img src="img/icon/w_pawprint.png" alt="" />
-                        </Link>
+</a>
+                      
                       </li>
                     </ul>
                   </div>
