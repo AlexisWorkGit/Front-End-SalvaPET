@@ -30,7 +30,7 @@ function Home() {
 				<Brand/>
 				{/*<AdoptionShop/>*/}
 				<Testimonial/>
-				<BlogsHome/>
+				{/*<BlogsHome/>*/}
 				<Newsletter/>
 				
 		</main>

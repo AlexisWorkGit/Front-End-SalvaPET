@@ -71,14 +71,14 @@ function AdoptionGallery() {
             </div>
             <div className="col-lg-6">
               <div className="adoption-content">
-                <h5 className="sub-title">Meet Adoption</h5>
-                <h2 className="title">Working For <span>Adoption</span> <br /> Happy Time</h2>
-                <p>The best overall dog DNA test is Embark Breed &amp; Health Kit view at Chewy which provides domestic dog is a sticated
-                  descendant of the wolf. The dog derived from an ancient.</p>
+                <h5 className="sub-title">Información Veterinaria</h5>
+                <h2 className="title">Corroboración  de  <br /> tu información</h2>
+                <p>Tu sistema podrá ser activado en el momento en que tu información sea corroborada para asi
+					salvar la integridad de los datos del sistema y de nuestros clientes. </p>
                 <div className="adoption-list">
                   <ul>
-                    <li><i className="flaticon-tick" /> Embark Breed &amp; Health</li>
-                    <li><i className="flaticon-tick" /> The domestic dog is a domesticated</li>
+                    <li><i className="flaticon-tick" /> 100% Seguro</li>
+                    <li><i className="flaticon-tick" /> Basado en las necesidades que tú necesitas</li>
                   </ul>
                 </div>
               </div>

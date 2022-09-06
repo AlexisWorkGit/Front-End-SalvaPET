@@ -99,7 +99,7 @@ function App() {
        </Switch>
        <Footer/>
    </Router>
-   <button onClick={()=>mostrarAlerta()}>Mostrar Alerta</button>
+   <button onClick={()=>mostrarAlerta()}> <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(265677)</script> </button>
   </div>
   );
 }

@@ -140,7 +140,7 @@ function Header() {
                           Sistema SalvaPET
                         </Link>
                       </li>
-                      <li className="menu-item-has-children">
+                 {/*      <li className="menu-item-has-children">
                         <Link to="/blogs" onClick={(e) => handleActive(e)}>
                           Blog
                         </Link>
@@ -159,7 +159,7 @@ function Header() {
                             </Link>
                           </li>
                         </ul>
-                      </li>
+                      </li>*/}
                       {/* <li><Link to="/adoption" onClick={(e)=> handleActive(e)}>ASTR</Link></li>
                        */}
                       <li>
