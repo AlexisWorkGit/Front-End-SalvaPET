@@ -42,7 +42,10 @@ function App() {
           'Comunica tu problema y un veterinario te asistira.',
           'Calcelar'
         )
-        document.innerHTML('<script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(265677)</script>');
+        const hide_SOS = document.getElementById("alert_btn");
+        hide_SOS.style.display="none";
+        const show_chat = document.getElementById("sntch_button");
+        show_chat.style.setProperty('display', 'flex', 'important');
       } else if (
         /* Read more about handling dismissals below */
         result.dismiss === Swal.DismissReason.cancel

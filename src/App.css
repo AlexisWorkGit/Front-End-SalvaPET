@@ -4,9 +4,14 @@
     height: 90px !important;
     right: 10px !important;
     bottom: 200px !important;
-    background-size: cover url(/public/img/images/SOS.png) !important;
+    background-image: url(https://play-lh.googleusercontent.com/ibGrsOSIungUGH69-cD0PAxoOi2rdYGKd8LDhanme4iGyh2aAXukKXpdpSFbehEk38M) !important;
+    background-size: cover !important;
     background-position: center center !important;
     border-radius: 50% !important;
     position:fixed;
     z-index: 100;
+}
+
+#sntch_button{
+    display: none !important;
 }
