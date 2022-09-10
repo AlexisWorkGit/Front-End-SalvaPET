@@ -42,6 +42,7 @@ function App() {
           'Comunica tu problema y un veterinario te asistira.',
           'Calcelar'
         )
+        document.innerHTML('<script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(265677)</script>');
       } else if (
         /* Read more about handling dismissals below */
         result.dismiss === Swal.DismissReason.cancel
@@ -99,7 +100,7 @@ function App() {
        </Switch>
        <Footer/>
    </Router>
-   <button onClick={()=>mostrarAlerta()}> <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(265677)</script> </button>
+   <button onClick={()=>mostrarAlerta()} id="alert_btn">  </button>
   </div>
   );
 }

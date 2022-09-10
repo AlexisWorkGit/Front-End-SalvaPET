@@ -1,0 +1,12 @@
+#alert_btn
+{   
+    width: 90px !important;
+    height: 90px !important;
+    right: 10px !important;
+    bottom: 200px !important;
+    background-size: cover url(/public/img/images/SOS.png) !important;
+    background-position: center center !important;
+    border-radius: 50% !important;
+    position:fixed;
+    z-index: 100;
+}
